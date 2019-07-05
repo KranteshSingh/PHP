@@ -34,6 +34,8 @@
 			 $number1 = 10;
 			 $number2 = 20;
 			 echo $number1 + $number2;
+
+			 $array = [1,2,3,4,5,6,7]
 			
 
 		
