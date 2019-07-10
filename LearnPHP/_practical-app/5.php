@@ -25,6 +25,13 @@
 
  */
 
+echo rand(1000,9999);
+echo "<br>";
+echo strlen("How Are you?");
+echo "<br>";
+$number = [32,434,434,6554,6535623,5655343];
+echo max($number);
+
 	
 ?>
 
