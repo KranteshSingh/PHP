@@ -33,9 +33,16 @@
 
 			 $number1 = 10;
 			 $number2 = 20;
-			 echo $number1 + $number2;
+			 echo $number1 + $number2 ."<br>";
 
-			 $array = [1,2,3,4,5,6,7]
+			 $numbers = array(1,2,3,4,5,6,7);
+			 echo "$numbers[0]"."<br>";
+
+			 $fruits_name = array("first" => "Mango", "second" => "Apple");
+			 echo "$fruits_name[first]";
+			 
+
+
 			
 
 		

@@ -23,6 +23,15 @@
 
  */
 
+ function addition($number1,$number2){
+	 $sum = $number1 + $number2;
+	 return $sum;
+ }
+
+ $result = addition(14,56);
+
+ echo $result;
+
 	
 ?>
 
